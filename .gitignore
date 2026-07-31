@@ -1,0 +1,27 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Python
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.sublime-project
+
+# Large binary exports (keep meshes, ignore temp files)
+*.blend1
+*.fbx

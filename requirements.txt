@@ -1,0 +1,7 @@
+# Python dependencies for RoboArm-M1
+# Install with: pip install -r requirements.txt
+
+roboticstoolbox-python>=1.0.0
+spatialmath-python>=1.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
